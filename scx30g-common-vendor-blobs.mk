@@ -25,7 +25,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/scx30g-common/proprietary/vendor/firmware/vbc_eq:system/vendor/firmware/vbc_eq \
     vendor/samsung/scx30g-common/proprietary/bin/macloader:system/bin/macloader \
     vendor/samsung/scx30g-common/proprietary/bin/rild:system/bin/rild \
-    vendor/samsung/scx30g-common/proprietary/bin/modemd:system/bin/modemd \
     vendor/samsung/scx30g-common/proprietary/bin/nvitemd:system/bin/nvitemd \
     vendor/samsung/scx30g-common/proprietary/bin/phoneserver:system/bin/phoneserver \
     vendor/samsung/scx30g-common/proprietary/bin/refnotify:system/bin/refnotify \
